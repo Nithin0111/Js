@@ -8,7 +8,6 @@ This is a
 multi line comment
 */
 
-
 //lesson2: varvar decimal = 2.5;
 console.log(a);
 
@@ -34,15 +33,13 @@ console.log("12" + 12);
 console.log("I am" + "Nithin");
 // addition of strings
 
-
 //Data types
 // 2 -> number
 // "2" -> string
 
 // To run the js file in type
-// node filename(day1).js 
+// node filename(day1).js
 // in compiler
-
 
 //lesson 3
 //just variable declaration without value
@@ -52,14 +49,13 @@ console.log(a);
 
 //assignment operator
 
-//lesson 4
+// lesson 4
 // start a variable named b with 0 and later change it to 9
 // changing variable values
 
 var secondA = 0;
 secondA = 9;
 console.log(secondA);
-
 
 //lesson 5
 
@@ -83,13 +79,13 @@ var c;
 // var a,b,c;
 a = 5;
 b = 10;
-c = "I am a"
+c = "I am a";
 
 a = a + 1;
 b = b + 5;
 c = c + " String!";
 
-console.log(a,b,c);
+console.log(a, b, c);
 
 //lesson 7
 
@@ -106,32 +102,31 @@ console.log(a,b,c);
 
 //add 2 numbers and store value in a variable called sum
 
-var sum = 2+5;
+var sum = 2 + 5;
 console.log(sum);
 
 // + addition operator
 
 //lesson 9
 
-//substract 2 numbers and store value in variable called difference 
+//substract 2 numbers and store value in variable called difference
 
-var difference = 5-2;
+var difference = 5 - 2;
 console.log(difference);
 
 //lesson 10
 
-var muliply = 5*2;
+var muliply = 5 * 2;
 console.log(multiply);
-//  operator * is multiplication and  ** operator in power operator 
-//5*2 => 10 , 5**2 => 25 
+//  operator * is multiplication and  ** operator in power operator
+//5*2 => 10 , 5**2 => 25
 
 //lesson 11
 
 //divide 2 numbers and store it in divide variable
 
-var divide = 8/2;
+var divide = 8 / 2;
 console.log(divide);
-
 
 // *** Summary *** //
 /* 
