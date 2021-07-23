@@ -23,7 +23,7 @@ var b = [
 ];
 console.log(b);
 
-//output resh"];36 - changing values in array since arrays are mutable
+//lesson 36 - changing values in array since arrays are mutable
 
 var a = ["nithin", "pandu", "suresh"];
 a[0] = "kittu";
