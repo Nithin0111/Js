@@ -68,15 +68,19 @@ loggedIn = true;
 // Nan error means not a number error in  js
 // "string" + undefined => undefined
 
+
 //lesson 6
 
-//multi line
+// multi line
 var a;
 var b;
 var c;
 
+// default value undefined
+
 // declaring in a single line
 // var a,b,c;
+
 a = 5;
 b = 10;
 c = "I am a";
